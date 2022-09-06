@@ -1,0 +1,9 @@
+*{
+    padding: 0px;
+}
+.imagenes{
+    width: 300px;
+    height: 300px;
+    display: flex-wrap;
+    
+}
